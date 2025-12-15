@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  width: 300px;
+  margin: 100px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input {
+  width: 70%;
+  padding: 5px;
+}
+
+button {
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+li {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+li span {
+  cursor: pointer;
+  flex: 1;
+}
+
+li button {
+  margin-left: 5px;
+}
+
+#suggestions {
+  margin-top: 10px;
+}
+
+.suggestion {
+  background: #eee;
+  padding: 5px;
+  margin: 4px 0;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.suggestion:hover {
+  background: #ddd;
+}
+
