@@ -33,5 +33,5 @@ Live Demo: https://squirrelk6755-ctrl.github.io/todo-app/
 
 ---
 
-## Project Structure
+
 
