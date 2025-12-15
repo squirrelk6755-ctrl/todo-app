@@ -55,8 +55,7 @@ The architecture allows easy future integration with real AI APIs such as OpenAI
 
 1. Download or clone the repository
 2. Open `index.html` in any web browser
-3. Start adding tasks 🎉
-
----
+3. Start adding tasks
+   ---
 
 
